@@ -1,0 +1,109 @@
+/*font-family: "Roboto", sans-serif;*/
+header {
+  background-color: white;
+  border-bottom: 1px solid #f3735f;
+}
+
+main {
+  background-color: #efefef;
+}
+
+footer {
+  background-color: red;
+  border: 2px solid black;
+}
+
+body {
+  font-size: 16px;
+  background-color: #efefef;
+}
+.container {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+section {
+  background-color: white;
+  margin: 60px 30px;
+  border-radius: 20px;
+  height: 800px;
+}
+
+p {
+  line-height: 22px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  color: #393c6c;
+  margin-top: 33px;
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: bold;
+  color: #f3735f;
+  margin-top: 70px;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: bold;
+  color: #393c6c;
+  line-height: 22px;
+}
+
+/*----------CSS de base________*/
+
+header div img {
+  width: 200px;
+  height: 31.47px;
+  margin: 15px;
+}
+
+.baseline {
+  font-family: "Roboto", sans-serif;
+  color: #6c6c6c;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14.06px;
+
+  text-align: center;
+}
+
+.time {
+  background-color: #8a98b1;
+  border-radius: 10px;
+  text-align: center;
+  width: 400px;
+  height: 45px;
+  margin-top: 23px;
+  margin-bottom: 43px;
+}
+
+.text-time {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700px;
+  font-size: 22px;
+  text-align: center;
+  line-height: 45px;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+.images {
+  display: flex;
+  justify-content: center;
+}
